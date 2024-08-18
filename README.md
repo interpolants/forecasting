@@ -3,7 +3,7 @@
 This repository contains a minimal working code to recreate the experiments presented in this paper. The code will be uploaded by the ICML 2024 conference. 
 
 
-
+Code for the Navier Stokes experiment can be found in the folder `navier-stokes`
 
 
 ## If you use this code for some purpose, please cite:
